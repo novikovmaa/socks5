@@ -1,5 +1,5 @@
 {
-  "name": "Node-socks",
+  "name": "socks5",
   "tagline": "A SOCKS v5/v4/v4a  proxy in node.js",
   "body": "SOCKS implementation in node.js\r\n===============================\r\n\r\nA simple SOCKS v5/v4/v4a implementation and demo proxy.\r\n\r\nYou can run it easily as::\r\n\r\n  node proxy.js\r\n\r\nThis will create a proxy at ``127.0.0.1`` on port ``8888``.\r\n\r\nYou can use this as a good starting point for writing a proxy or a tunnel!\r\n\r\n### Install\r\n- npm install socks5\r\n\r\n\r\n### License\r\n\r\n(The MIT License)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
