@@ -1,0 +1,6 @@
+{
+  "name": "Node-socks",
+  "tagline": "A SOCKS v5/v4/v4a  proxy in node.js",
+  "body": "SOCKS implementation in node.js\r\n===============================\r\n\r\nA simple SOCKS implementation and demo proxy in `node.js <http://nodejs.org>`_.\r\n\r\nYou can run it easily as::\r\n\r\n  node proxy.js\r\n\r\nThis will create a proxy at ``127.0.0.1`` on port ``8888``.\r\n\r\nYou can use this as a good starting point for writing a proxy or a tunnel!\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
